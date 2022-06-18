@@ -1,24 +1,8 @@
 # course-vue2
 
-## Project setup
-```
-npm install
-```
+## 目录
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. [vue 基础知识](./docs/vue-basic.md)
+2. [vue-router 原理实现](./docs/vue-router原理实现.md)
+3. [响应式原理](./docs/vue-mini.md)
+4. [实现一个小型 vue 框架: vue-mini](./docs/vue-mini.md)
